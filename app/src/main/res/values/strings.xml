@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">BasicLogin</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+
+
+    <!--Textview-->
+    <string name="tv_email">Username (Enter \'%1$s\')</string>
+    <string name="tv_password">Password (Enter \'%1$s\') </string>
+    <string name="tv_splash_screen">SPLASH\nSCREEN</string>
+
+    <!--EditText-->
+    <string name="et_email_hint">email@domain.com</string>
+
+    <!--Button-->
+    <string name="button_login">Login</string>
+
+    <!--Alert-->
+    <string name="alert_incorrect_logs">Please check your logs</string>
+    <string name="alert_no_network">Please check your network connectivity</string>
+    <string name="alert_no_internet">Please check your internet connectivity</string>
+    <string name="alert_server_down">Server down! Please try again later</string>
+    <string name="alert_internal_error">Internal server error! Please try again later</string>
+
+    <!--ProgressDialog-->
+    <string name="pd_please_wait">Loading, please wait</string>
+
+
+</resources>
